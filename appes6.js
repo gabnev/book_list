@@ -95,7 +95,6 @@ class Store {
 document.addEventListener('DOMContentLoaded', Store.displayBooks);
 
 // Add books
-
 document.querySelector('#book-form').addEventListener('submit', (event) => {
   
   // get form values
